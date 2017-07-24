@@ -31,10 +31,15 @@ The simulator provides the following set of values:
 We use a kinematic bicycle model. This model does not use inertia, friction and torque. 
 
 x,y - the position of the car
+
 psi - the heading direction
+
 v - velocity 
+
 cte - the cross-track error
+
 epsi - the orientation error
+
 Lf - the distance between the center of mass of the vehicle and the front wheels
 
 
